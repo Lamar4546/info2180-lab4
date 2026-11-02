@@ -1,0 +1,34 @@
+h1{
+    background-color: blue;
+    color: white;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+  background-color: azure;
+
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+#search {
+  padding: 10px;
+  width: 250px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: red;
+
+}
+
+#result {
+  margin-top: 30px;
+  font-size: 18px;
+  
+}
